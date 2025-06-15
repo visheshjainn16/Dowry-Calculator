@@ -99,5 +99,3 @@ else:
 print("\n⚠️ Disclaimer: This project is purely for fun and educational purposes.")
 print("🚫 Say NO to dowry in real life. Support equality and love 💛")
 print("-----------------------------------------------------------")
-
-pip install streamlit
